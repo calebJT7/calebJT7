@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Systems Analysis student | 💻 Frontend Developer in progress<br>👨‍💻 Learning React, C#, Node.js & more<br>🛠️ Building projects, growing every day<br>📍 From Argentina — Open to opportunities
+🎓 Systems Analysis student | 💻 Frontend Developer <br>👨‍💻 Learning React, C#, Node.js & more<br>🛠️ Building projects, growing every day<br>📍 From Argentina — Open to opportunities
 
 
 ## 🌐 Socials:
