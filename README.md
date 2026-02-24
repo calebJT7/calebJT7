@@ -1,4 +1,4 @@
-# 💫 About Me
+#  About Me
 
 🎓 **Systems Analysis Student** at Escuela Superior de Comercio Manuel Belgrano (UNC).
 💻 Focused on Backend Architecture, Data Integrity, and Software Quality (QA).
