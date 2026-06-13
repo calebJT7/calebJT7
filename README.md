@@ -1,16 +1,16 @@
 #  About Me
 
-🎓 **Systems Analysis Student** at Escuela Superior de Comercio Manuel Belgrano (UNC).
-💻 Focused on Backend Architecture, Data Integrity, and Software Quality (QA).
-⚙️ Building robust logic and applications using C# and .NET.
-📚 Currently deepening my knowledge in backend systems and pending to learn React.js.
-📍 Córdoba, Argentina — Open to technical roles, internships, and QA testing opportunities.
+ **Systems Analysis Student** at Escuela Superior de Comercio Manuel Belgrano (UNC).
+ Focused on Backend Architecture, Data Integrity, and Software Quality (QA).
+ Building robust logic and applications using C# and .NET.
+ Currently deepening my knowledge in backend systems and pending to learn React.js.
+ Córdoba, Argentina — Open to technical roles, internships, and QA testing opportunities.
 
-## 🌐 Contact & Socials:
+##  Contact & Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caleb-toledo-356b56336/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:calebtoledo375@gmail.com) 
 
-# 💻 Tech Stack:
+#  Tech Stack:
 
 ### Backend & Architecture
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -35,7 +35,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=calebJT7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=calebJT7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=calebJT7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
